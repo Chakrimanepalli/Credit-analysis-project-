@@ -1,0 +1,35 @@
+Dataset_Name,Category,Description,Source,Size,Download_Link,Primary_Use_Case
+American Express - Default Prediction,Financial,Largest payment card issuer dataset for default prediction,Kaggle Competition,10+ GB,https://www.kaggle.com/competitions/amex-default-prediction,Credit Risk Modeling
+Credit Risk Analysis,Financial,Credit history of customers from financial institution,Kaggle,~100MB,https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset,Credit Scoring
+German Credit Dataset,Financial,Classic credit risk dataset for probability of default,UCI ML Repository,~1MB,https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data,Binary Classification
+Home Credit Default Risk,Financial,Loan application data with alternative data sources,Kaggle Competition,7+ GB,https://www.kaggle.com/c/home-credit-default-risk,Alternative Credit Scoring
+Financial Transactions Dataset,Financial,Banking transaction records with fraud labels,Kaggle,~500MB,https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets,Fraud Detection
+Bank Marketing Dataset,Financial,Bank marketing campaigns dataset,UCI ML Repository,~1MB,https://archive.ics.uci.edu/dataset/222/bank+marketing,Marketing Analytics
+Lending Club Dataset,Financial,Peer-to-peer lending data,Lending Club,~2GB,https://www.lendingclub.com/info/download-data.action,P2P Lending
+ImageNet,Computer Vision,"1.2M images, 1000 categories - image classification benchmark",ImageNet,~150GB,https://www.image-net.org/download.php,Image Classification
+CIFAR-10,Computer Vision,60K 32x32 color images in 10 classes,CIFAR,~170MB,https://www.cs.toronto.edu/~kriz/cifar.html,Image Classification
+MNIST,Computer Vision,70K handwritten digits (0-9) - classic ML dataset,Yann LeCun,~50MB,http://yann.lecun.com/exdb/mnist/,Digit Recognition
+Fashion-MNIST,Computer Vision,70K grayscale images of 10 fashion items,Zalando Research,~30MB,https://github.com/zalandoresearch/fashion-mnist,Fashion Classification
+COCO,Computer Vision,"328K images with object detection, segmentation annotations",Microsoft,~25GB,https://cocodataset.org/#download,Object Detection
+Google Open Images,Computer Vision,"9M images labeled across 6,000 categories",Google,~500GB,https://storage.googleapis.com/openimages/web/index.html,Multi-task Vision
+Pascal VOC,Computer Vision,Object detection and segmentation benchmark,Pascal,~2GB,http://host.robots.ox.ac.uk/pascal/VOC/,Object Detection
+CelebA,Computer Vision,200K celebrity face images with attributes,CUHK,~1.3GB,http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html,Face Recognition
+IMDb Movie Reviews,NLP,50K movie reviews for sentiment analysis,Stanford/IMDb,~80MB,https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews,Sentiment Analysis
+AG News,NLP,News articles in 4 categories,AG,~30MB,https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset,Text Classification
+20 Newsgroups,NLP,20K documents from 20 newsgroups,CMU,~20MB,http://qwone.com/~jason/20Newsgroups/,Text Classification
+Reuters-21578,NLP,Reuters news categorization dataset,Reuters,~25MB,https://archive.ics.uci.edu/dataset/137/reuters+21578+text+categorization+collection,News Classification
+Amazon Reviews,NLP,Millions of product reviews from Amazon,Amazon,~3GB,https://www.kaggle.com/datasets/bittlingmayer/amazonreviews,Sentiment Analysis
+Yelp Reviews,NLP,Restaurant reviews with ratings,Yelp,~2.5GB,https://www.yelp.com/dataset,Sentiment Analysis
+SQuAD,NLP,Reading comprehension dataset with 100K questions,Stanford,~90MB,https://rajpurkar.github.io/SQuAD-explorer/,Question Answering
+Yahoo Finance Stock Data,Time Series,Historical stock prices from major exchanges,Yahoo Finance,Variable,https://finance.yahoo.com/,Stock Prediction
+Nifty-50 Stock Data,Time Series,Indian stock market data,Kaggle,~100MB,https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data,Market Analysis
+Bitcoin Price Data,Time Series,Historical cryptocurrency prices,Kaggle,~50MB,https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data,Crypto Analysis
+Energy Consumption Data,Time Series,Hourly energy consumption patterns,Kaggle,~200MB,https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption,Demand Forecasting
+Weather Data,Time Series,"Temperature, humidity, precipitation time series",NOAA,Variable,https://www.ncdc.noaa.gov/data-access,Climate Analysis
+Economic Indicators,Time Series,"GDP, inflation, unemployment rates over time",World Bank,Variable,https://data.worldbank.org/,Economic Forecasting
+Titanic,General,Passenger survival data from Titanic disaster,Kaggle,~1MB,https://www.kaggle.com/competitions/titanic,Binary Classification
+Iris Dataset,General,Flower measurements for species classification,UCI,~5KB,https://archive.ics.uci.edu/dataset/53/iris,Multi-class Classification
+Boston Housing,General,Housing prices in Boston area,UCI,~50KB,https://archive.ics.uci.edu/dataset/229/housing,Regression
+Wine Quality,General,Wine quality ratings based on physicochemical tests,UCI,~300KB,https://archive.ics.uci.edu/dataset/186/wine+quality,Classification/Regression
+Diabetes Dataset,Healthcare,Diabetes prediction based on diagnostic measures,UCI,~25KB,https://www.kaggle.com/datasets/mathchi/diabetes-data-set,Binary Classification
+Breast Cancer Wisconsin,Healthcare,Breast cancer diagnosis based on cell features,UCI,~200KB,https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+original,Binary Classification
